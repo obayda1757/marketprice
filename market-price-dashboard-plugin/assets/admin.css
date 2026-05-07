@@ -1,0 +1,81 @@
+/* Market Price Dashboard - Admin Styles */
+
+.mpd-admin-container {
+  margin-top: 20px;
+}
+
+.mpd-admin-container h2 {
+  color: #0ea5e9;
+  margin-bottom: 15px;
+}
+
+.mpd-admin-container h3 {
+  color: #0284c7;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.mpd-admin-container ul,
+.mpd-admin-container ol {
+  margin-left: 20px;
+}
+
+.mpd-admin-container li {
+  margin-bottom: 8px;
+  color: #555;
+}
+
+.mpd-admin-container code {
+  background: #f5f5f5;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 13px;
+}
+
+.mpd-admin-preview {
+  background: #f9f9f9;
+  padding: 15px;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+  margin-top: 20px;
+}
+
+.mpd-settings-container {
+  background: white;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+.mpd-settings-container .form-table th {
+  text-align: left;
+  width: 200px;
+}
+
+.mpd-settings-container code {
+  background: #f5f5f5;
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-family: monospace;
+  font-size: 12px;
+}
+
+.mpd-settings-container .description {
+  display: block;
+  color: #666;
+  font-size: 13px;
+  margin-top: 8px;
+}
+
+#mpd-csv-status {
+  background: #f0f0f0;
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+#mpd-csv-status p {
+  margin: 0;
+}
